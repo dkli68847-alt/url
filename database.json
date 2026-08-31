@@ -6,9 +6,18 @@
       "url": "https://aura24.onrender.com",
       "interval": 5,
       "status": "up",
-      "lastCheck": 1788194102172,
-      "totalPings": 11,
-      "successfulPings": 11
+      "lastCheck": 1788194462157,
+      "totalPings": 12,
+      "successfulPings": 12
+    },
+    {
+      "id": "1788194538190",
+      "url": "https://youtu.be/CW0po41xpdE?si=zuZlFlHsZeYbtv8F",
+      "interval": 5,
+      "status": "pending",
+      "lastCheck": null,
+      "totalPings": 0,
+      "successfulPings": 0
     }
   ],
   "88855555": []
