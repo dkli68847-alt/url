@@ -6,9 +6,10 @@
       "url": "https://aura24.onrender.com",
       "interval": 5,
       "status": "up",
-      "lastCheck": 1788192908359,
-      "totalPings": 8,
-      "successfulPings": 8
+      "lastCheck": 1788194102172,
+      "totalPings": 11,
+      "successfulPings": 11
     }
-  ]
+  ],
+  "88855555": []
 }
