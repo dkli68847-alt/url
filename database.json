@@ -14,9 +14,9 @@
       "id": "1788194538190",
       "url": "https://youtu.be/CW0po41xpdE?si=zuZlFlHsZeYbtv8F",
       "interval": 5,
-      "status": "pending",
-      "lastCheck": null,
-      "totalPings": 0,
+      "status": "down",
+      "lastCheck": 1788194548855,
+      "totalPings": 1,
       "successfulPings": 0
     }
   ],
