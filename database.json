@@ -5,10 +5,10 @@
       "id": "1788190374916",
       "url": "https://aura24.onrender.com",
       "interval": 5,
-      "status": "down",
-      "lastCheck": 1788200222271,
-      "totalPings": 28,
-      "successfulPings": 27
+      "status": "up",
+      "lastCheck": 1788200582242,
+      "totalPings": 29,
+      "successfulPings": 28
     }
   ],
   "88855555": []
