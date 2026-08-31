@@ -1,3 +1,13 @@
 {
-  "65676888": []
+  "65676888": [
+    {
+      "id": "1788190374916",
+      "url": "https://aura24.onrender.com",
+      "interval": 5,
+      "status": "pending",
+      "lastCheck": null,
+      "totalPings": 0,
+      "successfulPings": 0
+    }
+  ]
 }
